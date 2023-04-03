@@ -1,0 +1,1 @@
+These are my Kotlin notes as a Intermediate 
